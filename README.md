@@ -1,2 +1,2 @@
 # yolo
-simpe yoo achievement
+simple yolo achievement
