@@ -1,2 +1,2 @@
 # yolo
-simple yolo achievement
+simple yolo achievement after disabling the copilot review
